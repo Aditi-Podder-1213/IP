@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <h1>Main Heading</h1>
+
+    <h2>Sub Heading</h2>
+
+    <p>This is a paragraph.</p>
+
+    <br>
+
+    <hr>
+
+    <strong>Important Text</strong>
+    <b>Bold text</b>
+
+    <hr>
+
+    <em>Emphasized text</em>
+    <i>Italic text</i>
+    
+    <hr>
+
+    <mark>Highlighted text</mark>
+
+    <hr>
+
+    <small>Small text</small>
+
+    <hr>
+
+    <p>H<sub>2</sub>O</p>
+    <p>x<sup>2</sup></p>
+
+    <hr>
+
+    <blockquote>
+        Learning HTML is fun.
+    </blockquote>
+
+    <hr>
+
+    <code>
+        print("Hello World")
+    </code>
+
+    <hr>
+
+    <details open>
+        <summary>Click to expand</summary>
+    </details>
+
+
+</body>
+
+</html>
